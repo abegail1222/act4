@@ -1,0 +1,7 @@
+{
+  "name": "abegailact2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
